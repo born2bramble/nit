@@ -2,8 +2,6 @@
 // @name         Get Tags
 // @namespace    http://tampermonkey.net/
 // @version      2025-09-08
-// @updateURL    https://github.com/born2bramble/nit/raw/refs/heads/main/nit.user.js
-// @downloadURL  https://github.com/born2bramble/nit/raw/refs/heads/main/nit.user.js
 // @description  try to take over the world!
 // @author       You
 // @match        https://beta.nomi.ai/nomis
