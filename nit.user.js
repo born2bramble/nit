@@ -1,7 +1,7 @@
     // ==UserScript==
 // @name         Get Tags
 // @namespace    http://tampermonkey.net/
-// @version      2025-09-08
+// @version      2025-09-08.1
 // @description  try to take over the world!
 // @author       You
 // @match        https://beta.nomi.ai/nomis
